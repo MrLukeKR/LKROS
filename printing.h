@@ -1,0 +1,16 @@
+#define BLACK 0
+#define DARKBLUE 1
+#define DARKGREEN 2
+#define DARKCYAN 3
+#define DARKRED 4
+#define DARKMAGENTA 5
+#define DARKORANGE 6
+#define GREY 7
+#define DARKGREY 8
+#define LIGHTBLUE 9
+#define LIGHTGREEN 10
+#define CYAN 11
+#define LIGHTRED 12
+#define PINK 13
+#define YELLOW 14
+#define WHITE 15
